@@ -1,2 +1,2 @@
 # Networks
-Cytoplots and network visualization in python and js
+Cytoplots and network visualization in python and cytoscape.js
