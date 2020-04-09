@@ -11,6 +11,9 @@ Here we have a regular index.html file that loads the js script and render
 the visualisation. We can later edit this file for style and functionality
 but thats for later. 
 
+To test this. Double click the TryMeOut.html file in the html folder.
+
+TODO:
 We want to write a backend in python that serves the index.html file with
 the network node and edge information, and that fetches GO and pathway data for
 a list of nodes.
@@ -22,4 +25,5 @@ higher than some number and put that information into a json file.
 Then we want to write something that fetches GO data for a list of genes
 and handle the data that comes of it. Depending on architecture we might later 
 put stuff into a database but thats a later problem. 
+
 
